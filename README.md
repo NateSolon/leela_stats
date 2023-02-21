@@ -1,3 +1,3 @@
 # leela_stats
 
-Test content
+![Results chart](/leela_stats/assets/images/results.png)
