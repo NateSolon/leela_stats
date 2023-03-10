@@ -1,4 +1,4 @@
 # leela_stats
 
-![Length chart](/docs/assets/images/length.png)
-![Results chart](/docs/assets/images/results.png)
+![Length chart](/images/length.png)
+![Results chart](/images/results.png)
