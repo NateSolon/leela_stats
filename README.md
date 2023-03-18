@@ -1,4 +1,5 @@
 # leela_stats
 
-![Length chart](/images/length.png)
-![Results chart](/images/results.png)
+![Length chart](/output/pgns-run2-20190614-0054/length.png)
+![First moves chart](/output/pgns-run2-20190614-0054/first_moves.pgn
+![Results chart](/output/pgns-run2-20190614-0054/results.png)
